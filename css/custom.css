@@ -1,0 +1,17 @@
+.new {
+    margin-top: 20px;
+}
+#total-price {
+    margin-left: 30px;
+    font-size: 36px;
+}
+#total-price, .total-price-label {
+    display: inline-block;
+}
+
+#calc-prices-button, #fork {
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-color: black;
+}
